@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PelisOmdb</string>
+    <string name="apipath">http://www.omdbapi.com/?t=</string>
+    <string name="apikey">&amp;apikey=2765c924</string>
+</resources>
